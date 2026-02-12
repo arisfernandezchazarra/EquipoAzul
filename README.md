@@ -1,2 +1,2 @@
-# TheGreatRepo
-Mi primer repositorio para realizar prácticas.
+# EquipoAzul
+Nuestro primer repositorio de prácticas para trabajar en remoto!
