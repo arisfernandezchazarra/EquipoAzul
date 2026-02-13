@@ -43,7 +43,7 @@ Hay varios sistemas de gestión de bases de datos que no son libres, lo que sign
 
 - Sybase ASE: un SGBD relacional utilizado principalmente en entornos empresariales para aplicaciones de alto rendimiento. [https://www.sap.com/spain/products/technology-platform/sybase-ase.html](https://www.sap.com/spain/products/technology-platform/sybase-ase.html)
 
-![IMG|200](https://images2.imgbox.com/fd/4a/XoDPO6yw_o.jpg)
+<img src="https://images2.imgbox.com/fd/4a/XoDPO6yw_o.jpg" width="200">
 
 ### Roles
 
