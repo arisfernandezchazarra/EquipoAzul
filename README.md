@@ -455,3 +455,5 @@ El modelo ER amplía el modelo relacional, organizando datos en entidades, atrib
 Basado en la idea de objetos, el modelo OOM almacena datos en objetos con propiedades y métodos, clasificados en clases. Permite una representación detallada y precisa de los objetos del mundo real, con herencia de clases y encapsulación de datos. Se utiliza en aplicaciones que requieren una representación exacta de objetos, como juegos y sistemas de información geográfica.
 
 ![IMG](https://images2.imgbox.com/16/c1/mKletJFH_o.jpg)
+
+prueba cambio
