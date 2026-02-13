@@ -1,4 +1,3 @@
-
 # 1. Navegación y Sistema
 
 Estos comandos te permiten moverte por las carpetas de tu computadora y entender dónde estás ubicado.
