@@ -85,7 +85,7 @@ Por ejemplo, el SGBD Oracle tiene unos roles predefinidos:
 La sentencia que permite crear roles es CREATE ROLE.
 
 SQL
-
+```
 CREATE ROLE rol
 
 [NOT IDENTIFIED
@@ -96,8 +96,7 @@ CREATE ROLE rol
 
 ];
 
-  
-
+```
 - NOT IDENTIFIED indica que el rol no requiere contraseña.
 
 - IDENTIFIED BY indica que el rol si requiere contraseña.
@@ -109,30 +108,27 @@ CREATE ROLE rol
 
 Ejemplo: Crear un rol y asignar privilegios.
 
-SQL
-
+```
 CREATE ROLE miPrimerRole;
 
 GRANT SELECT, INSERT, UPDATE, DELETE ON tabla
 
 TO miPrimerRole;
 
-  
+```
 
 Ejemplo: Asignarle un rol a un usuario.
 
-SQL
-
+```
 GRANT miPrimerRole TO miUsuario;
-
+```
   
 
 Ejemplo: Eliminar un rol.
 
-SQL
-
+```
 DROP ROLE miPrimerRole;
-
+```
   
 
 ![IMG](https://images2.imgbox.com/28/db/waQvK4n5_o.jpg)
